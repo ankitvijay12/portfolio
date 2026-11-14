@@ -39,6 +39,7 @@ venv.bak/
 *.sqlite
 *.sqlite3
 *.db
+*.db-*
 network_platform.db
 
 # Testing & Coverage
@@ -55,3 +56,11 @@ htmlcov/
 *.swp
 *.swo
 test_write.txt
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.vite/
+
