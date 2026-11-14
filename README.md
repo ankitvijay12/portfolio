@@ -1,4 +1,5 @@
-# Enterprise Network Design & Simulation Platform
+# Ankit Vijay — Portfolio & Projects
+
 
 A production-structured, full-stack network engineering platform for designing enterprise network topologies, planning IP addressing and VLANs, evaluating design rules, and simulating routing, outages, multi-commodity traffic flows, and Single Points of Failure (SPOF).
 
@@ -202,6 +203,18 @@ tests/test_redundancy_spof.py::test_spof_detection PASSED
 tests/test_routing_simulation.py::test_dijkstra_shortest_path PASSED
 tests/test_routing_simulation.py::test_reachability_matrix PASSED
 tests/test_traffic_simulation.py::test_traffic_simulation_congestion PASSED
-tests/test_validation.py::test_design_health_evaluation PASSED
 ============== 12 passed in 2.12s ==============
 ```
+
+---
+
+## 📈 Stock AI Analyzer (NSE / BSE)
+
+A full-stack quantitative stock analysis platform for Indian equities (NSE) featuring:
+- **FastAPI Backend & React Frontend**: TradingView Lightweight Charts, real-time indicators, and 5-min caching.
+- **7 High-Probability Setups**: 20-Day Breakouts, EMA Pullbacks, Oversold Bounces, Engulfing/Hammers, Bollinger Squeezes, Strong Relative Strength vs Nifty 50, and Gap-Up momentum.
+- **Strict 1:2 Risk-Reward Enforcement**: Automated NO_TRADE filtering if minimum 1:2 R:R is not satisfied.
+- **Post-Union Budget 2024 Tax Calculator**: STCG @ 20% vs LTCG @ 12.5% comparison, itemized STT/GST/charges, and tax savings if held >12 months.
+- **Trade Journal & P&L Tracker**: 1-click trade logging and active position management.
+- **3-5 Year Historical Backtests**: Realistic Indian market stats including ₹20 flat brokerage, 0.1% STT, and slippage.
+
